@@ -80,9 +80,11 @@ ws-icon-default = 
 label-focused = %icon%  %name%
 label-unfocused = %icon%  %name%
 label-visible = %icon%  %name%
+label-urgent = %icon%  %name%
 label-focused-padding = 2
 label-unfocused-padding = 2
 label-visible-padding = 2
+label-urgent-padding = 2
 
 label-separator = |
 label-separator-padding = 0
