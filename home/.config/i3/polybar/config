@@ -141,7 +141,7 @@ label-urgent-foreground = ${color.RED}
 [module/date]
 type = internal/date
 interval = 1.0
-date =  %A%e %B %H:%M
+date =  %A %e %B %H:%M
 
 [module/cpu]
 type = internal/cpu
@@ -182,7 +182,7 @@ label-muted-foreground = ${color.FOREGROUND2}
 
 [module/battery]
 type = internal/battery
-full-at = 99
+full-at = 95
 battery = BAT0
 adapter = AC
 
